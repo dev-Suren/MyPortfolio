@@ -3734,6 +3734,9 @@ e(this):c.doc,k=new N(c,e(this)),e(this).data("__nicescroll",k));h.push(k)});ret
 
 
 function initMap() {
+    if (!document.getElementById('ieatmaps')) {
+        return;
+    }
 
     var map = new google.maps.Map(document.getElementById('ieatmaps'), {
       center: {lat: 34.0937458, lng: -118.3614978},
