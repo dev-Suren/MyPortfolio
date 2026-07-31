@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8' />
+  <style>
+    body { font-family: Arial, sans-serif; color: #222; margin: 32px; line-height: 1.45; }
+    h1 { font-size: 24px; margin-bottom: 4px; }
+    h2 { font-size: 16px; margin-top: 24px; margin-bottom: 8px; color: #111; }
+    .meta { color: #555; font-size: 12px; margin-bottom: 16px; }
+    .section { margin-bottom: 14px; }
+    ul { margin: 6px 0 0 12px; padding: 0; }
+    li { margin-bottom: 6px; }
+    .job { font-weight: bold; }
+    .date { color: #666; font-size: 12px; margin-top: 2px; }
+  </style>
+</head>
+<body>
+  <h1>Suren Rana</h1>
+  <div class='meta'>Software Engineer · Nepal · surenrana113@gmail.com · linkedin.com/in/surensrm</div>
+
+  <div class='section'>
+    <h2>Professional Summary</h2>
+    <p>Software Engineer focused on Java, Spring Boot, Python automation, and AWS-powered workflows. Experienced in building backend systems, improving reliability, and simplifying repetitive engineering work through automation.</p>
+  </div>
+
+  <div class='section'>
+    <h2>Core Skills</h2>
+    <ul>
+      <li>Java / Spring Boot</li>
+      <li>Python automation and scripting</li>
+      <li>AWS Lambda, S3, CloudWatch</li>
+      <li>SQL / DBMS</li>
+      <li>Git, REST APIs, backend troubleshooting</li>
+    </ul>
+  </div>
+
+  <div class='section'>
+    <h2>Experience</h2>
+    <div class='job'>Software Engineer — Cedargate Technologies / IQVIA</div>
+    <div class='date'>Apr 2025 – Present</div>
+    <ul>
+      <li>Working with Java and Spring Boot in production engineering tasks.</li>
+      <li>Using AWS services for monitoring, storage, and workflow automation.</li>
+      <li>Building Python scripts to reduce manual and repetitive development work.</li>
+    </ul>
+
+    <div class='job'>Associate Software Engineer — Cedar Gate Technologies</div>
+    <div class='date'>Apr 2024 – Apr 2025</div>
+    <ul>
+      <li>Strengthened backend development, debugging, and automation skills.</li>
+      <li>Supported operational tasks across Java-based systems.</li>
+    </ul>
+  </div>
+
+  <div class='section'>
+    <h2>Education</h2>
+    <div class='job'>B.Tech in Information Technology — Lovely Professional University</div>
+    <div class='date'>2019 – 2023</div>
+    <ul>
+      <li>Built a foundation in programming, databases, web technologies, and software engineering.</li>
+    </ul>
+  </div>
+</body>
+</html>
